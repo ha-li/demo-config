@@ -1,0 +1,9 @@
+server:
+  servlet-path: /
+
+cxf:
+  path: /v1
+  jaxrs: 
+    component-scan: true
+
+
